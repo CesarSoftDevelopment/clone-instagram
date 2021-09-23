@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#ff000000</color>
+    <color name="colorAccent">#a03d89</color>
+    <color name="cinza_medio">#ebebeb</color>
+    <color name="roxo">#462759</color>
+    <color name="azulEscuro">#3F51B5</color>
+</resources>
